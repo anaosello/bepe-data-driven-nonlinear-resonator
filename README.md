@@ -1,0 +1,1 @@
+# 	Data-driven Identification of the Governing Equations of a Nonlinear Resonator
