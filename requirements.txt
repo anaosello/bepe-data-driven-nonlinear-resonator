@@ -1,7 +1,13 @@
-numpy
-scipy
+ipykernel
+ipympl
+ipython
+jupyterlab
 matplotlib
+numpy
 pandas
 pysindy
-jupyter
-ipykernel
+pysr==1.5.10
+scikit-learn
+scipy
+sympy
+threadpoolctl
