@@ -1,4 +1,4 @@
-# Ambiente virtual
+# Virtual environment
 .venv/
 
 # Python
@@ -10,19 +10,16 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Arquivos de ambiente
+# Environment files
 .env
 
-# Saídas e resultados pesados
+# Generated outputs and large serialized artifacts
 results/
 outputs/
 figures/
 
-# Dados brutos grandes ou sensíveis
-data/raw/
-# *.mat
 *.pkl
 
-# Sistema operacional
+# Operating system
 .DS_Store
 Thumbs.db
